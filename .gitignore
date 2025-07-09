@@ -1,0 +1,9 @@
+
+# Temp Dirs
+work/
+
+# Extensions
+*.wlf
+
+# Temp Files
+transcript
